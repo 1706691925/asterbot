@@ -27,7 +27,6 @@ wget -qO- https://gitee.com/yeyv123/asterbot/raw/master/install.sh | sed 's/\r//
 - **北川云** [官网](https://beichuan.cloud)
 - **小路互联** [官网](https://plyl.xiaolu.icu)
 
-好的，我可以为您在开源协议部分添加更多的详细信息，使其更加清晰、规范。以下是更新后的版本：
 
 ---
 
