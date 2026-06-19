@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>AsterBot Integrated Installer</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<nav class="nav">
+<div class="logo">AsterBot</div>
+<div>
+<a href="#features">Features</a>
+<a href="#install">Install</a>
+<a href="#team">Team</a>
+</div>
+</nav>
+
+<header class="hero">
+<h1>Deploy Your AI Bot Platform</h1>
+<p>One-click installation for AsterBot, NapCatQQ and GeWeChat.</p>
+<a class="btn" href="#install">Get Started</a>
+</header>
+
+<section id="features">
+<h2>Features</h2>
+<div class="grid">
+<div class="card"><h3>One Click</h3><p>Simple deployment experience.</p></div>
+<div class="card"><h3>Docker Powered</h3><p>Built on official Docker images.</p></div>
+<div class="card"><h3>Beginner Friendly</h3><p>No advanced Linux skills required.</p></div>
+</div>
+</section>
+
+<section id="install">
+<h2>Quick Install</h2>
+<pre id="cmd">wget -qO- https://gitee.com/yeyv123/asterbot/raw/master/install.sh | sed 's/\r//' | bash</pre>
+<button onclick="copyCmd()">Copy Command</button>
+</section>
+
+<section id="team">
+<h2>Maintainers</h2>
+<p>夜屿 · 烤花生啊</p>
+</section>
+
+<script src="main.js"></script>
+</body>
+</html>
