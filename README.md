@@ -24,8 +24,7 @@ wget -qO- https://gitee.com/yeyv123/asterbot/raw/master/install.sh | sed 's/\r//
 ## 参与贡献
 - **夜屿** (QQ: 1706691925)
 - **烤花生啊** (QQ: 2823264360)
-- **北川云** [官网](https://beichuan.cloud)
-- **小路互联** [官网](https://plyl.xiaolu.icu)
+
 
 
 ---
